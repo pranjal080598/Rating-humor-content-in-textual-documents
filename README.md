@@ -7,6 +7,7 @@ The repository contains project work done for CMPUT-690. The problem statement r
 - `notebook-experiments`: contains experiments done over Google Colabs with various featurizations and training models
 - `datasets`: contains train, test and ground truth data provided by competition setters 
 - `reports`: contains proposal and final paper
+- `output` : contains output predictions of humour for various experiments with different featurization techniques and model building
 
 ## Acknowledgement 
 Project work was done and discussed with Prof. Osmar Zaine
